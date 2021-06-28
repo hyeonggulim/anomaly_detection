@@ -3,3 +3,6 @@
 1. NLP 에서의 이상탐지 (스팸 필터, 거래 내용 탐지)
 2. Vision 에서의 이상탐지 (자율주행, fake image 구분)
 3. Time-series 에서의 이상탐지 (제조 환경)
+
+FFT
+Wavelet
