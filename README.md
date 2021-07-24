@@ -5,5 +5,6 @@
 2. Vision 에서의 이상탐지 (자율주행, fake image 구분)
 3. Time-series 에서의 이상탐지 (제조 환경)
 
+
 FFT
 Wavelet
