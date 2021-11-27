@@ -6,6 +6,4 @@
 3. Time-series 에서의 이상탐지 (제조 환경)
 
 
-
-FFT
-Wavelet
+# Time-series Anomaly detection 연구 방향
